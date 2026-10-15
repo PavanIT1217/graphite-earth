@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pavanit1217.github.io/graphite-earth/sitemap.xml
